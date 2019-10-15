@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Monster%20in%20the%20House/static/css/main.7bd5be70.chunk.css",
+    "main.js": "/Monster%20in%20the%20House/static/js/main.221bd6a2.chunk.js",
+    "main.js.map": "/Monster%20in%20the%20House/static/js/main.221bd6a2.chunk.js.map",
+    "runtime-main.js": "/Monster%20in%20the%20House/static/js/runtime-main.8fa18a5a.js",
+    "runtime-main.js.map": "/Monster%20in%20the%20House/static/js/runtime-main.8fa18a5a.js.map",
+    "static/js/2.6c2f71aa.chunk.js": "/Monster%20in%20the%20House/static/js/2.6c2f71aa.chunk.js",
+    "static/js/2.6c2f71aa.chunk.js.map": "/Monster%20in%20the%20House/static/js/2.6c2f71aa.chunk.js.map",
+    "index.html": "/Monster%20in%20the%20House/index.html",
+    "precache-manifest.7dc165a5c93fbf1f7517fbd9883b791b.js": "/Monster%20in%20the%20House/precache-manifest.7dc165a5c93fbf1f7517fbd9883b791b.js",
+    "service-worker.js": "/Monster%20in%20the%20House/service-worker.js",
+    "static/css/main.7bd5be70.chunk.css.map": "/Monster%20in%20the%20House/static/css/main.7bd5be70.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8fa18a5a.js",
+    "static/js/2.6c2f71aa.chunk.js",
+    "static/css/main.7bd5be70.chunk.css",
+    "static/js/main.221bd6a2.chunk.js"
+  ]
+}
